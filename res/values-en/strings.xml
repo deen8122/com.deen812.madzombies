@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimplePool!</string>
+    <string name="app_name">Mad ZOMBIES</string>
+    <string name="lang">rus</string>
+    <string name="pause">Pause</string>
+    <string name="level">Level - </string>
+    <string name="youwin">Level complete!</string>
+      <string name="loose">You stand Zombie!</string>
+    <string name="about"><center>About us</center> \n\r 
+       компания DEEN812\n\r\n\r
+                         Тестовый текст  Тестовый текст  Тестовый текст \n\r
+                         Тестовый текстТестовый текст Тестовый текст</string>
+</resources>

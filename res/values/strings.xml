@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimplePool!</string>
+    <string name="app_name">Бешеные ЗОМБИ</string>
+    <string name="lang">rus</string>
+    <string name="pause">Пауза</string>
+    <string name="level">Уровень - </string>
+    <string name="youwin">Вы прошли уровень!</string>
+      <string name="loose">Вы проиграли!</string>
+      
+        <string name="u_uprav">- Управление</string>
+          <string name="u_b">- Прыжок</string>
+          <string name="u_a">- Удар рукой</string>
+          <string name="u_bye">- Пополнение жизни</string>
+          <string name="u_a_d">- Удар ногой</string>
+    <string name="about">
+                         разрабчик: Кагарманов Денис \n\r
+                         15.10.2015 год</string>
+</resources>
