@@ -8,6 +8,7 @@
 
 # Небольшое видео
 
-<video src='https://github.com/deen8122/com.deen812.madzombies/blob/main/files/video_2023-11-04_17-57-57.mp4?raw=true' />
+  [Ссылка на видео](https://github.com/deen8122/com.deen812.madzombies/blob/main/files/video_2023-11-04_17-57-57.mp4?raw=true)
+
 
   
